@@ -147,61 +147,62 @@ document.addEventListener("DOMContentLoaded", () => {
       send_button: "보내기"
     },
 
-    /* ================= NEPALI ================= */
-    ne: {
-      title: "उशिमादो पर्यटन",
-      subtitle: "जापानको एजियन सागर",
+    
+    /* ================= CHINESE (TRADITIONAL) ================= */
+    "zh-tw": {
+      title: "牛窗觀光",
+      subtitle: "日本的愛琴海",
 
-      purpose_h2: "उद्देश्य",
-      purpose_p: "उशिमादोको प्राकृतिक सौन्दर्य, संस्कृति र आतिथ्यतालाई विश्वभर परिचय गराउनु हाम्रो उद्देश्य हो।",
+      purpose_h2: "宗旨",
+      purpose_p: "向世界介紹牛窗的自然美景、文化與熱情好客。",
 
-      why_h2: "किन उशिमादो?",
-      why_p: "शान्त समुद्र र सुन्दर सूर्यास्तका लागि उशिमादो प्रसिद्ध छ।",
+      why_h2: "為什麼選擇牛窗？",
+      why_p: "牛窗以平靜的海面與美麗的夕陽聞名。",
 
-      activities_h2: "गतिविधिहरू",
-      activities_card_title: "समुद्र र समुद्री किनार",
-      activities_card_desc: "पौडी, कायकिङ र समुद्री गतिविधिहरूको आनन्द लिनुहोस्।",
+      activities_h2: "活動",
+      activities_card_title: "海洋與沙灘",
+      activities_card_desc: "享受游泳、獨木舟及各種海上活動。",
 
-      local_card_title: "स्थानीय संस्कृति",
-      local_card_desc: "सेतोउची क्षेत्रको कला, खाना र परम्पराको अनुभव गर्नुहोस्।",
+      local_card_title: "在地文化",
+      local_card_desc: "體驗瀨戶內的藝術、美食與傳統。",
 
-      spots_card_title: "पर्यटन स्थलहरू",
-      spots_card_desc: "सुन्दर दृश्य भएका प्रसिद्ध स्थानहरू भ्रमण गर्नुहोस्।",
+      spots_card_title: "觀光景點",
+      spots_card_desc: "參觀著名的美景與浪漫地點。",
 
-      english_camp_title: "इंग्लिश क्याम्प",
-      english_camp_desc: "प्रकृति अनुभव र अन्तर-सांस्कृतिक आदानप्रदानलाई जोड्ने विशेष कार्यक्रम।",
+      english_camp_title: "英語營",
+      english_camp_desc: "結合自然體驗與國際交流的特別活動。",
 
-      hotel_h2: "बसोबास",
-      hotel_rimani_link: "आधिकारिक वेबसाइट",
-      hotel_rimani_title: "होटल लिमानी",
-      hotel_rimani_desc: "समुद्रको दृश्यसहितको सुन्दर रिसोर्ट।",
+      hotel_h2: "住宿",
+      hotel_rimani_link: "官方網站",
+      hotel_rimani_title: "利瑪尼飯店",
+      hotel_rimani_desc: "可欣賞海景的度假飯店。",
 
-      hotel_inn_link: "आधिकारिक वेबसाइट",
-      hotel_inn_title: "उशिमादो रोबी",
-      hotel_inn_desc: "न्यानो आतिथ्यसहितको आरामदायक सराय।",
+      hotel_inn_link: "官方網站",
+      hotel_inn_title: "牛窗羅比旅宿",
+      hotel_inn_desc: "充滿溫暖人情味的舒適旅宿。",
 
-      hotel_sea_title: "समुद्र किनार बसोबास",
-      hotel_sea_desc: "सुन्दर दृश्यसँगै आराम गर्नुहोस्।",
+      hotel_sea_title: "海邊住宿",
+      hotel_sea_desc: "在美麗景色中放鬆身心。",
 
-      nearby_h2: "नजिकका आकर्षणहरू",
-      nearby_yacht: "उशिमादो याट हार्बर",
-      nearby_museum: "उशिमादो काइयु संस्कृति संग्रहालय",
-      nearby_tourism: "सेतोउची सिटी पर्यटन केन्द्र",
-      nearby_street: "शियोमाची कराकोटो सडक",
-      nearby_temple: "होन्‍रेन्जी मन्दिर",
-      nearby_all: "सबै आकर्षणहरू",
+      nearby_h2: "附近景點",
+      nearby_yacht: "牛窗遊艇港",
+      nearby_museum: "牛窗海遊文化館",
+      nearby_tourism: "瀨戶內市觀光中心",
+      nearby_street: "潮町唐琴通",
+      nearby_temple: "本蓮寺",
+      nearby_all: "所有景點",
 
-      experience_h2: "उशिमादोमा मेरो अनुभव",
-      experience_p1: "उशिमादोमा बिताएको समय मेरो लागि विशेष अनुभव थियो।",
-      experience_p2: "प्रकृति र मानिसहरूको न्यानोपनले मन छोयो।",
-      experience_p3: "सधैं सम्झिरहने सम्झनाको स्थान।",
+      experience_h2: "我的牛窗體驗",
+      experience_p1: "在牛窗度過的時光是一段特別的體驗。",
+      experience_p2: "感受到大自然與人們的溫暖。",
+      experience_p3: "一個令人難以忘懷的地方。",
 
-      contact_h2: "सम्पर्क गर्नुहोस्",
-      name_label: "नाम",
-      email_label: "इमेल",
-      subject_label: "विषय",
-      message_label: "सन्देश",
-      send_button: "पठाउनुहोस्"
+      contact_h2: "聯絡我們",
+      name_label: "姓名",
+      email_label: "電子郵件",
+      subject_label: "主旨",
+      message_label: "留言內容",
+      send_button: "送出"
     },
 
     /* ================= BENGALI ================= */
@@ -318,62 +319,62 @@ document.addEventListener("DOMContentLoaded", () => {
       send_button: "යවන්න"
     },
 
-    /* ================= CHINESE (TRADITIONAL) ================= */
-    "zh-tw": {
-      title: "牛窗觀光",
-      subtitle: "日本的愛琴海",
+        /* ================= NEPALI ================= */
+    ne: {
+      title: "उशिमादो पर्यटन",
+      subtitle: "जापानको एजियन सागर",
 
-      purpose_h2: "宗旨",
-      purpose_p: "向世界介紹牛窗的自然美景、文化與熱情好客。",
+      purpose_h2: "उद्देश्य",
+      purpose_p: "उशिमादोको प्राकृतिक सौन्दर्य, संस्कृति र आतिथ्यतालाई विश्वभर परिचय गराउनु हाम्रो उद्देश्य हो।",
 
-      why_h2: "為什麼選擇牛窗？",
-      why_p: "牛窗以平靜的海面與美麗的夕陽聞名。",
+      why_h2: "किन उशिमादो?",
+      why_p: "शान्त समुद्र र सुन्दर सूर्यास्तका लागि उशिमादो प्रसिद्ध छ।",
 
-      activities_h2: "活動",
-      activities_card_title: "海洋與沙灘",
-      activities_card_desc: "享受游泳、獨木舟及各種海上活動。",
+      activities_h2: "गतिविधिहरू",
+      activities_card_title: "समुद्र र समुद्री किनार",
+      activities_card_desc: "पौडी, कायकिङ र समुद्री गतिविधिहरूको आनन्द लिनुहोस्।",
 
-      local_card_title: "在地文化",
-      local_card_desc: "體驗瀨戶內的藝術、美食與傳統。",
+      local_card_title: "स्थानीय संस्कृति",
+      local_card_desc: "सेतोउची क्षेत्रको कला, खाना र परम्पराको अनुभव गर्नुहोस्।",
 
-      spots_card_title: "觀光景點",
-      spots_card_desc: "參觀著名的美景與浪漫地點。",
+      spots_card_title: "पर्यटन स्थलहरू",
+      spots_card_desc: "सुन्दर दृश्य भएका प्रसिद्ध स्थानहरू भ्रमण गर्नुहोस्।",
 
-      english_camp_title: "英語營",
-      english_camp_desc: "結合自然體驗與國際交流的特別活動。",
+      english_camp_title: "इंग्लिश क्याम्प",
+      english_camp_desc: "प्रकृति अनुभव र अन्तर-सांस्कृतिक आदानप्रदानलाई जोड्ने विशेष कार्यक्रम।",
 
-      hotel_h2: "住宿",
-      hotel_rimani_link: "官方網站",
-      hotel_rimani_title: "利瑪尼飯店",
-      hotel_rimani_desc: "可欣賞海景的度假飯店。",
+      hotel_h2: "बसोबास",
+      hotel_rimani_link: "आधिकारिक वेबसाइट",
+      hotel_rimani_title: "होटल लिमानी",
+      hotel_rimani_desc: "समुद्रको दृश्यसहितको सुन्दर रिसोर्ट।",
 
-      hotel_inn_link: "官方網站",
-      hotel_inn_title: "牛窗羅比旅宿",
-      hotel_inn_desc: "充滿溫暖人情味的舒適旅宿。",
+      hotel_inn_link: "आधिकारिक वेबसाइट",
+      hotel_inn_title: "उशिमादो रोबी",
+      hotel_inn_desc: "न्यानो आतिथ्यसहितको आरामदायक सराय।",
 
-      hotel_sea_title: "海邊住宿",
-      hotel_sea_desc: "在美麗景色中放鬆身心。",
+      hotel_sea_title: "समुद्र किनार बसोबास",
+      hotel_sea_desc: "सुन्दर दृश्यसँगै आराम गर्नुहोस्।",
 
-      nearby_h2: "附近景點",
-      nearby_yacht: "牛窗遊艇港",
-      nearby_museum: "牛窗海遊文化館",
-      nearby_tourism: "瀨戶內市觀光中心",
-      nearby_street: "潮町唐琴通",
-      nearby_temple: "本蓮寺",
-      nearby_all: "所有景點",
+      nearby_h2: "नजिकका आकर्षणहरू",
+      nearby_yacht: "उशिमादो याट हार्बर",
+      nearby_museum: "उशिमादो काइयु संस्कृति संग्रहालय",
+      nearby_tourism: "सेतोउची सिटी पर्यटन केन्द्र",
+      nearby_street: "शियोमाची कराकोटो सडक",
+      nearby_temple: "होन्‍रेन्जी मन्दिर",
+      nearby_all: "सबै आकर्षणहरू",
 
-      experience_h2: "我的牛窗體驗",
-      experience_p1: "在牛窗度過的時光是一段特別的體驗。",
-      experience_p2: "感受到大自然與人們的溫暖。",
-      experience_p3: "一個令人難以忘懷的地方。",
+      experience_h2: "उशिमादोमा मेरो अनुभव",
+      experience_p1: "उशिमादोमा बिताएको समय मेरो लागि विशेष अनुभव थियो।",
+      experience_p2: "प्रकृति र मानिसहरूको न्यानोपनले मन छोयो।",
+      experience_p3: "सधैं सम्झिरहने सम्झनाको स्थान।",
 
-      contact_h2: "聯絡我們",
-      name_label: "姓名",
-      email_label: "電子郵件",
-      subject_label: "主旨",
-      message_label: "留言內容",
-      send_button: "送出"
-    }
+      contact_h2: "सम्पर्क गर्नुहोस्",
+      name_label: "नाम",
+      email_label: "इमेल",
+      subject_label: "विषय",
+      message_label: "सन्देश",
+      send_button: "पठाउनुहोस्"
+    },
   };
 
   function setLanguage(lang) {
